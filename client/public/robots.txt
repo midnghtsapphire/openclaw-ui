@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /dashboard
+Disallow: /agents
+Disallow: /connectors
+Disallow: /chat
+Disallow: /skill-scanner
+Disallow: /monitoring
+Disallow: /jobs
+Disallow: /billing
+Disallow: /settings
+
+Sitemap: /sitemap.xml
